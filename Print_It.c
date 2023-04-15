@@ -1,12 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main()
-{
-    int n, i;
-    scanf("%d", &n);
-    for (i = 0; i < n; i++)
-    {
-        printf("I Love Assignment\n");
-    }
-    return 0;
+int main() {
+   printf("Hello, world! I am learning C programming language. ^_^\n");
+   printf("Programming is fun and challenging. /\\/\\/\\/\\/\n");
+   printf("I want to give my 100%% dedication to learn!\tI will succeed one day.\n");
+
+   return 0;
 }
