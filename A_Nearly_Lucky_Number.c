@@ -4,7 +4,6 @@ int main ()
 {
     int  count=0;
     char a[100];
-    scanf("%s",a);
     for(int i=0; i<strlen(a); i++)
     {
         if (a[i]=='4' || a[i]=='7') count++;
